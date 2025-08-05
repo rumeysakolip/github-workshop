@@ -6,4 +6,4 @@ Masaüstüne bu repository'i klonladıktan sonra vs-code üzerinden bu README.md
 2| git add README.md                                                   //Dosyayı stage et
 3| git commit -m "README içeriği güncellendi"                          //Commit yap
 
-komutlarını kullandım.
+komutlarını kullandım.  
